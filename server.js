@@ -3,7 +3,7 @@
 // const bodyParser = require('body-parser');
 // const cors = require('cors');
 
-import './cron-ping.js';
+// import './cron-ping.js';
 
 import express from 'express';
 import cors from 'cors';
